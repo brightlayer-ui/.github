@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a bug with a PX Blue resource
 title: ''
-labels: bug
+labels: 'bug, needs-review'
 assignees: ''
 
 ---
