@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest an idea for this resource
 title: ''
-labels: enhancement
+labels: 'enhancement, needs-review'
 assignees: ''
 
 ---
