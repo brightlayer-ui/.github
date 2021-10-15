@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug with a PX Blue resource
+about: Report a bug with a Brightlayer UI resource
 title: ''
 labels: 'bug, needs-review'
 assignees: ''

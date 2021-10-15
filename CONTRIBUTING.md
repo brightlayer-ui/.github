@@ -1,14 +1,14 @@
-# Contributing to PX Blue
+# Contributing to Brightlayer UI
 
-Thank you for helping to make PX Blue projects great and being a part of the PX Blue community. Here are a few guidelines that will help you along the way.
+Thank you for helping to make Brightlayer UI projects great and being a part of the Brightlayer UI community. Here are a few guidelines that will help you along the way.
 
 ## Code of Conduct
 
-PX Blue has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of Conduct, and we expect project participants to adhere to it. Please read [the document](https://github.com/pxblue/.github/blob/master/CODE_OF_CONDUCT.md) so that you can understand what will and will not be tolerated.
+Brightlayer UI has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of Conduct, and we expect project participants to adhere to it. Please read [the document](https://github.com/brightlayer-ui/.github/blob/master/CODE_OF_CONDUCT.md) so that you can understand what will and will not be tolerated.
 
 ## Contributions
 
-There are many ways to contribute to PX Blue (code contribution is just one aspect of it). Here are some ways you can help:
+There are many ways to contribute to Brightlayer UI (code contribution is just one aspect of it). Here are some ways you can help:
 
 - Reporting and/or fixing bugs
 - Suggesting and/or implementing new features
@@ -23,7 +23,7 @@ If you decide to fix an issue, please check the comments in the issues section o
 
 We have an established convention for branch naming and commit messages following the rules below. We ask that you also adhere to these rules to maximize the likelihood of your submission being accepted.
 
-> **Pro Tip:** to automatically enforce these conventions, you can use our [git hooks](https://github.com/pxblue/.github/tree/master/hooks) configuration.
+> **Pro Tip:** to automatically enforce these conventions, you can use our [git hooks](https://github.com/brightlayer-ui/.github/tree/master/hooks) configuration.
 
 ### Branch Naming Conventions:
 
@@ -53,27 +53,27 @@ Pull requests should:
 
 - Target `dev` branch
 - Have a clear and descriptive title
-- Adhere to the PX Blue Pull Request template
+- Adhere to the Brightlayer UI Pull Request template
 - Reference any issue(s) that are fixed (i.e., 'Fixes #XX')
 - Briefly describe at a high level what is being proposed
 - Use a bulleted list to highlight the key changes/additions
 
 ## Sending a Pull Request
 
-PX Blue is a community with many projects, so pull requests are always welcome. If you are planning to work on something, please open an issue first (bug or feature request) to discuss it with the maintainers of PX Blue. Keep pull requests small to have the best chance of getting accepted. Several small pull requests are easier to review than one large one.
+Brightlayer UI is a community with many projects, so pull requests are always welcome. If you are planning to work on something, please open an issue first (bug or feature request) to discuss it with the maintainers of Brightlayer UI. Keep pull requests small to have the best chance of getting accepted. Several small pull requests are easier to review than one large one.
 
 > **Pro Tip:**: Don't bundle more than one feature or bug fix per pull request.
 
 ## Get started
 
-1. Fork the relevant PX Blue repository to your GitHub account.
+1. Fork the relevant Brightlayer UI repository to your GitHub account.
 
 2. Clone the fork repository to your local machine and add upstream remote:
 
 ```
 git clone https://github.com/<your-user-id>/<repository> -b <branch-name>
 cd <repository>
-git remote add upstream https://github.com/pxblue/<repository-name>
+git remote add upstream https://github.com/brightlayer-ui/<repository-name>
 ```
 
 3. Synchronize your local branch with the upstream one:
@@ -104,8 +104,8 @@ git checkout -b bug/my-topic-branch
 6. Make changes and verify the code.
    Pull requests will only be accepted if they pass the following mandatory checks:
 
-- the code is formatted via `yarn prettier` with the [PX Blue prettier](https://github.com/pxblue/code-standards/tree/dev/prettier-config) configuration
-- the code is linted via `yarn lint` using the [PX Blue ESLint](https://github.com/pxblue/code-standards/tree/dev/eslint-config) configuration
+- the code is formatted via `yarn prettier` with the [Brightlayer UI prettier](https://github.com/brightlayer-ui/code-standards/tree/dev/prettier-config) configuration
+- the code is linted via `yarn lint` using the [Brightlayer UI ESLint](https://github.com/brightlayer-ui/code-standards/tree/dev/eslint-config) configuration
 - the code builds successfully via `yarn build` (where appropriate).
 - the code passes all tests via `yarn test` (some repositories include additional tests that must also pass).
 - the branch name, commit messages, and pull request formats adhere to the requirements described above.
@@ -116,20 +116,20 @@ git checkout -b bug/my-topic-branch
 git push –set-upstream origin <your branch name>
 ```
 
-8. Go to the proper [PX Blue repository](https://github.com/pxblue) and make a Pull Request.
+8. Go to the proper [Brightlayer UI repository](https://github.com/brightlayer-ui) and make a Pull Request.
 
-The maintainers of PX Blue will be notified and will review your pull request and either merge it, request changes to it, or close it with an explanation.
+The maintainers of Brightlayer UI will be notified and will review your pull request and either merge it, request changes to it, or close it with an explanation.
 
-> The `master` branch in PX Blue repositories represents the latest released/published code. The `dev` branch is used to hold the latest updates and features that are waiting to be released.
+> The `master` branch in Brightlayer UI repositories represents the latest released/published code. The `dev` branch is used to hold the latest updates and features that are waiting to be released.
 
-## Get support from PX Blue
+## Get support from Brightlayer UI
 
-[Contact Us](https://pxblue.github.io/community/contactus)
+[Contact Us](https://brightlayer-ui.github.io/community/contactus)
 
 ## Roadmap
 
-Want to know where PX Blue is heading or ideas on where you could contribute, take a look at the [roadmap](https://pxblue.github.io/roadmap/).
+Want to know where Brightlayer UI is heading or ideas on where you could contribute, take a look at the [roadmap](https://brightlayer-ui.github.io/roadmap/).
 
 ## License
 
-By contributing to the PX Blue GitHub organization, you agree to license your contribution under the [BSD-3-Clause license](https://github.com/pxblue/.github/blob/master/LICENSE).
+By contributing to the Brightlayer UI GitHub organization, you agree to license your contribution under the [BSD-3-Clause license](https://github.com/brightlayer-ui/.github/blob/master/LICENSE).
