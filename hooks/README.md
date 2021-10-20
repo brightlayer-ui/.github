@@ -1,11 +1,11 @@
 # Git Hooks
-[Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) are used to enforce various checks while working with a git repository. PX Blue uses hooks to enforce consistency of commit messages while working on PX Blue resources and materials.
+[Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) are used to enforce various checks while working with a git repository. Brightlayer UI uses hooks to enforce consistency of commit messages while working on Brightlayer UI resources and materials.
 
 ## Installation
 You will need to clone this repository to a permanent location on your computer (the git config will refer to this location):
 ```
 cd path/to/safelocation
-git clone https://github.com/pxblue/.github
+git clone https://github.com/brightlayer-ui/.github
 ```
 
 ## Configuration

@@ -1,2 +1,2 @@
-# Getting Support from PX Blue
+# Getting Support from Brightlayer UI
 Coming soon...
